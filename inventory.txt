@@ -1,0 +1,2 @@
+database  ansible_host=192.168.0.61  ansible_ssh_pass=osboxes.org ansible_become_password=osboxes.org
+webserver ansible_host=192.168.0.189 ansible_ssh_pass=osboxes.org ansible_become_password=osboxes.org
